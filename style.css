@@ -1,6 +1,6 @@
 *{
     /* padding: 0px; */
-    /* margin: 0px; */
+    margin: 0px;
 }
 body{
     border: 0.1px dotted #5F6474;
@@ -11,7 +11,7 @@ body{
     padding-top: 30px;
     margin-top: 0px;
     text-align: center;
-    font-size: 50px;
+    font-size: 60px;
     height: 109px;
     color: #5F6474;
     background-color: #C4C4C4;
@@ -21,4 +21,17 @@ body{
     /* margin-top: 0px; */
     height: 70px;
     background-color: #5F6474;
+    margin-bottom: 0px;
+}
+
+.left-strip{
+    background-color: #C4C4C4;
+    height: 831px;
+    width: 400px;
+    float: left;
+    margin-top: 0px;
+}
+.right-strip{
+    height: 831px;
+    background-color: #eee;
 }
