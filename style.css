@@ -20,11 +20,27 @@ body{
 }
 .top-strip{
     /* margin-top: 0px; */
-    height: 70px;
+    height: 50px;
     background-color: #5F6474;
     margin-bottom: 0px;
+    color: white;
+    display: flex;
+    padding-top: 15px;
 }
-
+.home{
+    flex-grow: 55;
+    padding-left: 15px;
+    /* font-style: bold; */
+}
+.resources{
+    flex-grow: 1;
+}
+.github{
+    flex-grow: 1;
+}
+.contact{
+    flex-grow: 1;
+}
 .left-strip{
     background-color: #C4C4C4;
     height: 831px;
