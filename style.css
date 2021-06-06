@@ -4,14 +4,15 @@
 }
 body{
     border: 0.1px dotted #5F6474;
-    margin: 0px;
-    background-color: #eee)
+    margin: 10px;
+    background-color: #eee;
+    
 }
 .name{
     padding-top: 30px;
     margin-top: 0px;
     text-align: center;
-    font-size: 60px;
+    font-size: 50px;
     height: 109px;
     color: #5F6474;
     background-color: #C4C4C4;
