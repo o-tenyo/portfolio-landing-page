@@ -67,3 +67,8 @@ h3{
     /* float: right; */
     background-color: #eee;
 }
+.my-photo{
+    height: 130px;
+    width: 120px;
+    border-radius: 50%;
+}
