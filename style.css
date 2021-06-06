@@ -12,7 +12,7 @@ body{
     background-repeat: no-repeat;   
 }
 .name{
-    padding-top: 30px;
+    padding-top: 40px;
     margin-top: 0px;
     text-align: center;
     font-size: 50px;
@@ -32,7 +32,7 @@ body{
 }
 .home{
     flex-grow: 55;
-    padding-left: 15px;
+    padding-left: 30px;
     /* font-style: bold; */
 }
 .resources{
@@ -46,12 +46,19 @@ body{
 }
 .left-strip{
     background-color: #C4C4C4;
-    height: 831px;
-    width: 400px;
+    height: 1000px;
+    width: 250px;
     float: left;
     margin-top: 0px;
+    padding-left: 30px;
+    padding-top: 20px;
+    color: #5F6474;
 }
+
 .right-strip{
-    height: 831px;
+    padding-top: 20px;
+    padding-left: 320px;
+    height: 1000px;
+    /* float: right; */
     background-color: #eee;
 }
