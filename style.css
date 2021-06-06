@@ -1,12 +1,15 @@
 *{
     /* padding: 0px; */
     margin: 0px;
+    
 }
 body{
     border: 0.1px dotted #5F6474;
-    margin: 10px;
+    margin: 20px 300px;
     background-color: #eee;
-    
+    background-image: url("/background.png");
+    background-size: cover;
+    background-repeat: no-repeat;   
 }
 .name{
     padding-top: 30px;
