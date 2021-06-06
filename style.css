@@ -62,7 +62,8 @@ h3{
 
 .right-strip{
     padding-top: 20px;
-    padding-left: 320px;
+    padding-left: 310px;
+    padding-right: 30px;
     height: 1000px;
     /* float: right; */
     background-color: #eee;
